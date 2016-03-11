@@ -30,7 +30,7 @@ class Pilha():
 class PilhaVaziaErro(Exception):
     pass
 
-#Codigos de testes ...
+#Codigos de testes...
 
 class PilhaTestes(unittest.TestCase):
     def test_topo_lista_vazia(self):

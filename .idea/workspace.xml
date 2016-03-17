@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7244d47a-b132-4af5-9acb-8bf6ab06e078" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/balanciamento.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="estrutura-de-dados.iws" />
@@ -27,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/pilha.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -38,9 +39,11 @@
       <file leaf-file-name="balanciamento.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/balanciamento.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11221122">
+            <state vertical-scroll-proportion="0.1775457">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,6 +147,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="aula4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="estrutura-de-dados" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="estrutura-de-dados" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="estrutura-de-dados-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Exercicios" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -164,74 +185,8 @@
       <recent name="C:\Users\Aluno\PycharmProjects\estrutura-de-dados" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittest BalancearTestes.test_expressao_vazia">
-    <configuration default="false" name="Unittest PilhaTestes.test_desempilhar" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/pilha.py" />
-      <option name="CLASS_NAME" value="PilhaTestes" />
-      <option name="METHOD_NAME" value="test_desempilhar" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in PilhaTestes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/pilha.py" />
-      <option name="CLASS_NAME" value="PilhaTestes" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in pilha" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/pilha.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest BalancearTestes.test_expressao_vazia" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in BalancearTestes">
+    <configuration default="false" name="Unittest BalancearTestes.test_expressao_matematica_valida" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -243,7 +198,51 @@
       <module name="estrutura-de-dados" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/balanciamento.py" />
       <option name="CLASS_NAME" value="BalancearTestes" />
-      <option name="METHOD_NAME" value="test_expressao_vazia" />
+      <option name="METHOD_NAME" value="test_expressao_matematica_valida" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest BalancearTestes.test_parenteses" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="estrutura-de-dados" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/balanciamento.py" />
+      <option name="CLASS_NAME" value="BalancearTestes" />
+      <option name="METHOD_NAME" value="test_parenteses" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest BalancearTestes.test_todos_caracteres" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="estrutura-de-dados" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/balanciamento.py" />
+      <option name="CLASS_NAME" value="BalancearTestes" />
+      <option name="METHOD_NAME" value="test_todos_caracteres" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -268,6 +267,28 @@
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest BalancearTestes.test_falta_de_caracter_de_abertura" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="estrutura-de-dados" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/balanciamento.py" />
+      <option name="CLASS_NAME" value="BalancearTestes" />
+      <option name="METHOD_NAME" value="test_falta_de_caracter_de_abertura" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -398,19 +419,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest PilhaTestes.test_desempilhar" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in PilhaTestes" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in pilha" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest BalancearTestes.test_expressao_vazia" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in BalancearTestes" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest BalancearTestes.test_expressao_matematica_valida" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest BalancearTestes.test_parenteses" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest BalancearTestes.test_todos_caracteres" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in BalancearTestes" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest BalancearTestes.test_falta_de_caracter_de_abertura" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest BalancearTestes.test_expressao_vazia" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in BalancearTestes" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in PilhaTestes" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in pilha" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest PilhaTestes.test_desempilhar" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in BalancearTestes" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest BalancearTestes.test_falta_de_caracter_de_abertura" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest BalancearTestes.test_expressao_matematica_valida" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest BalancearTestes.test_todos_caracteres" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest BalancearTestes.test_parenteses" />
       </list>
     </recent_temporary>
   </component>
@@ -431,38 +452,44 @@
       <option name="project" value="LOCAL" />
       <updated>1456925760235</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Estrutura do algoritmo de balanceamento">
+      <created>1458146619154</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1458146619154</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_BalancearTestes_test_expressao_vazia - 2016.03.15 at 21h 40m 02s.xml">
-      <configuration name="Unittest BalancearTestes.test_expressao_vazia" configurationId="tests" />
+    <history-entry file="Unittests_in_BalancearTestes - 2016.03.16 at 22h 18m 39s.xml">
+      <configuration name="Unittests in BalancearTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_BalancearTestes_test_expressao_vazia - 2016.03.15 at 21h 42m 20s.xml">
-      <configuration name="Unittest BalancearTestes.test_expressao_vazia" configurationId="tests" />
+    <history-entry file="Unittests_in_BalancearTestes - 2016.03.16 at 22h 18m 54s.xml">
+      <configuration name="Unittests in BalancearTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_BalancearTestes_test_expressao_vazia - 2016.03.15 at 21h 44m 24s.xml">
-      <configuration name="Unittest BalancearTestes.test_expressao_vazia" configurationId="tests" />
+    <history-entry file="Unittests_in_BalancearTestes - 2016.03.16 at 22h 20m 17s.xml">
+      <configuration name="Unittests in BalancearTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_BalancearTestes_test_expressao_vazia - 2016.03.15 at 21h 44m 46s.xml">
-      <configuration name="Unittest BalancearTestes.test_expressao_vazia" configurationId="tests" />
+    <history-entry file="Unittests_in_BalancearTestes - 2016.03.16 at 22h 21m 42s.xml">
+      <configuration name="Unittests in BalancearTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_BalancearTestes_test_expressao_vazia - 2016.03.15 at 21h 45m 42s.xml">
-      <configuration name="Unittest BalancearTestes.test_expressao_vazia" configurationId="tests" />
+    <history-entry file="Unittests_in_BalancearTestes - 2016.03.16 at 22h 21m 54s.xml">
+      <configuration name="Unittests in BalancearTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_BalancearTestes_test_expressao_vazia - 2016.03.15 at 21h 46m 28s.xml">
-      <configuration name="Unittest BalancearTestes.test_expressao_vazia" configurationId="tests" />
+    <history-entry file="Unittests_in_BalancearTestes - 2016.03.16 at 22h 22m 43s.xml">
+      <configuration name="Unittests in BalancearTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_BalancearTestes_test_expressao_vazia - 2016.03.15 at 21h 48m 33s.xml">
-      <configuration name="Unittest BalancearTestes.test_expressao_vazia" configurationId="tests" />
+    <history-entry file="Unittests_in_BalancearTestes - 2016.03.16 at 22h 24m 00s.xml">
+      <configuration name="Unittests in BalancearTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_BalancearTestes_test_expressao_vazia - 2016.03.15 at 21h 49m 03s.xml">
-      <configuration name="Unittest BalancearTestes.test_expressao_vazia" configurationId="tests" />
+    <history-entry file="Unittests_in_BalancearTestes - 2016.03.16 at 22h 25m 41s.xml">
+      <configuration name="Unittests in BalancearTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_BalancearTestes_test_expressao_vazia - 2016.03.15 at 21h 49m 50s.xml">
-      <configuration name="Unittest BalancearTestes.test_expressao_vazia" configurationId="tests" />
+    <history-entry file="Unittests_in_BalancearTestes - 2016.03.16 at 22h 25m 55s.xml">
+      <configuration name="Unittests in BalancearTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_BalancearTestes - 2016.03.15 at 21h 41m 57s.xml">
+    <history-entry file="Unittests_in_BalancearTestes - 2016.03.16 at 22h 26m 42s.xml">
       <configuration name="Unittests in BalancearTestes" configurationId="tests" />
     </history-entry>
   </component>
@@ -470,25 +497,25 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15373352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -504,7 +531,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teste com Noh Ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste com Noh Ok" />
+    <MESSAGE value="Estrutura do algoritmo de balanceamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estrutura do algoritmo de balanceamento" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -520,14 +548,6 @@
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/balanciamento.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,7 +648,7 @@
     <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/pilha.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -637,9 +657,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/balanciamento.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11221122">
+        <state vertical-scroll-proportion="0.1775457">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

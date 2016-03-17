@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7244d47a-b132-4af5-9acb-8bf6ab06e078" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/balanciamento.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="estrutura-de-dados.iws" />
@@ -36,14 +35,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="balanciamento.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="balanciamento.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/balanciamento.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1775457">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="balanciamento.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula4/balanciamento.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pilha.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula4/pilha.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -181,6 +200,9 @@
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JoãoPedro\PycharmProjects\estrutura-de-dados\estrutura-de-dados-master\aula4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Aluno\PycharmProjects\estrutura-de-dados" />
     </key>
@@ -458,7 +480,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458146619154</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Balanciamento Terminado">
+      <created>1458178675079</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1458178675079</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -495,9 +523,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -532,7 +560,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teste com Noh Ok" />
     <MESSAGE value="Estrutura do algoritmo de balanceamento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estrutura do algoritmo de balanceamento" />
+    <MESSAGE value="Balanciamento Terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Balanciamento Terminado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -657,11 +686,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/Exercicios/balanciamento.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1775457">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula4/balanciamento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula4/pilha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

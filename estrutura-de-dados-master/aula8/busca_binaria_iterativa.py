@@ -6,7 +6,7 @@ def busca_binaria(seq, procurado):
     :return: int
     """
     # Memória: O de 1
-    #Tempo: O log n
+    #Tempo: O de n
     if len(seq) == 0: return 0
     inicio = 0
     final = len(seq)

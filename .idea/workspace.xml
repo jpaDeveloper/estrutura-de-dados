@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7244d47a-b132-4af5-9acb-8bf6ab06e078" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estrutura-de-dados-master/aula8/busca_binaria_iterativa.py" afterPath="$PROJECT_DIR$/estrutura-de-dados-master/aula8/busca_binaria_iterativa.py" />
     </list>
     <ignored path="estrutura-de-dados.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,33 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fila.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula5/fila.py">
+      <file leaf-file-name="largura.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quick_sort_iterativo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula7/quick_sort_iterativo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+            <state relative-caret-position="168">
+              <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="busca_binaria_iterativa.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula8/busca_binaria_iterativa.py">
+      <file leaf-file-name="profundidade.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="119">
+              <caret line="101" column="10" selection-start-line="101" selection-start-column="10" selection-end-line="101" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -81,6 +70,9 @@
         <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula6/bubblesort.py" />
         <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula7/quick_sort_iterativo.py" />
         <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula8/busca_binaria_iterativa.py" />
+        <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/altura.py" />
+        <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py" />
+        <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" />
       </list>
     </option>
   </component>
@@ -115,6 +107,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,7 +155,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="aula8" />
+              <option name="myItemId" value="aula9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -185,8 +179,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,19 +197,19 @@
       <recent name="C:\Users\JoãoPedro\PycharmProjects\estrutura-de-dados\estrutura-de-dados-master\aula4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in BuscaBinariaTestes">
-    <configuration default="false" name="Unittests in OrdenacaoTestes (2)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in ArvoreTestes (1)">
+    <configuration default="false" name="Unittests in NohTestes (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula7/quick_sort_iterativo.py" />
-      <option name="CLASS_NAME" value="OrdenacaoTestes" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" />
+      <option name="CLASS_NAME" value="NohTestes" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_CLASS" />
@@ -228,19 +220,19 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest OrdenacaoTestes.teste_lista_desordenada" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest NohTestes.teste_init_com_pai_justaposto" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula7/quick_sort_iterativo.py" />
-      <option name="CLASS_NAME" value="OrdenacaoTestes" />
-      <option name="METHOD_NAME" value="teste_lista_desordenada" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" />
+      <option name="CLASS_NAME" value="NohTestes" />
+      <option name="METHOD_NAME" value="teste_init_com_pai_justaposto" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -250,21 +242,21 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in quick_sort_iterativo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in ArvoreTestes (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula7/quick_sort_iterativo.py" />
-      <option name="CLASS_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" />
+      <option name="CLASS_NAME" value="ArvoreTestes" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -272,21 +264,21 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in quick_sort_iterativo (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in NohTestes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula7/quick_sort_iterativo.py" />
-      <option name="CLASS_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py" />
+      <option name="CLASS_NAME" value="NohTestes" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -294,18 +286,18 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in BuscaBinariaTestes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in ArvoreTestes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula8/busca_binaria_iterativa.py" />
-      <option name="CLASS_NAME" value="BuscaBinariaTestes" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py" />
+      <option name="CLASS_NAME" value="ArvoreTestes" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_CLASS" />
@@ -451,19 +443,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in OrdenacaoTestes (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest OrdenacaoTestes.teste_lista_desordenada" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in quick_sort_iterativo" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in quick_sort_iterativo (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in BuscaBinariaTestes" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in NohTestes (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest NohTestes.teste_init_com_pai_justaposto" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in ArvoreTestes (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in NohTestes" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in ArvoreTestes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in BuscaBinariaTestes" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in OrdenacaoTestes (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in quick_sort_iterativo (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in quick_sort_iterativo" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest OrdenacaoTestes.teste_lista_desordenada" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ArvoreTestes (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in NohTestes (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in ArvoreTestes" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in NohTestes" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest NohTestes.teste_init_com_pai_justaposto" />
       </list>
     </recent_temporary>
   </component>
@@ -551,57 +543,64 @@
       <option name="project" value="LOCAL" />
       <updated>1460743909821</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Busca Binária OK">
+      <created>1460744072977</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1460744072978</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_BuscaBinariaTestes - 2016.04.15 at 15h 06m 02s.xml">
-      <configuration name="Unittests in BuscaBinariaTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 39m 23s.xml">
+      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_BuscaBinariaTestes - 2016.04.15 at 15h 06m 09s.xml">
-      <configuration name="Unittests in BuscaBinariaTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 40m 17s.xml">
+      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_BuscaBinariaTestes - 2016.04.15 at 15h 06m 26s.xml">
-      <configuration name="Unittests in BuscaBinariaTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 40m 34s.xml">
+      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_BuscaBinariaTestes - 2016.04.15 at 15h 06m 32s.xml">
-      <configuration name="Unittests in BuscaBinariaTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 41m 57s.xml">
+      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_BuscaBinariaTestes - 2016.04.15 at 15h 06m 51s.xml">
-      <configuration name="Unittests in BuscaBinariaTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 42m 04s.xml">
+      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_BuscaBinariaTestes - 2016.04.15 at 15h 06m 57s.xml">
-      <configuration name="Unittests in BuscaBinariaTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 43m 53s.xml">
+      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_BuscaBinariaTestes - 2016.04.15 at 15h 07m 11s.xml">
-      <configuration name="Unittests in BuscaBinariaTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 45m 35s.xml">
+      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_BuscaBinariaTestes - 2016.04.15 at 15h 08m 20s.xml">
-      <configuration name="Unittests in BuscaBinariaTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 46m 30s.xml">
+      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_BuscaBinariaTestes - 2016.04.15 at 15h 08m 26s.xml">
-      <configuration name="Unittests in BuscaBinariaTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_NohTestes_(1) - 2016.04.22 at 17h 39m 17s.xml">
+      <configuration name="Unittests in NohTestes (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_BuscaBinariaTestes - 2016.04.15 at 15h 11m 09s.xml">
-      <configuration name="Unittests in BuscaBinariaTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_NohTestes_(1) - 2016.04.22 at 17h 46m 24s.xml">
+      <configuration name="Unittests in NohTestes (1)" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15373352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1522694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32492113" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32492113" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -643,9 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -653,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,9 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -671,7 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,9 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -738,9 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -776,9 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -959,13 +941,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula5/fila.py">
+    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula8/busca_binaria_iterativa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -973,14 +952,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula5/fila.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula9/altura.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula8/busca_binaria_iterativa.py">
+    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="119">
+          <caret line="101" column="10" selection-start-line="101" selection-start-column="10" selection-end-line="101" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
           <folding />
         </state>
       </provider>

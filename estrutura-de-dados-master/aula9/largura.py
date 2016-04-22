@@ -1,3 +1,5 @@
+#tempo: O de n
+#espaço: O de n
 class Noh:
     def __init__(self, valor, pai = None):
         self.valor = valor

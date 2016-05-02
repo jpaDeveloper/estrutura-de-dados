@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7244d47a-b132-4af5-9acb-8bf6ab06e078" name="Default" comment="">
+    <list default="true" id="7244d47a-b132-4af5-9acb-8bf6ab06e078" name="Default" comment="Atividades aula 9 OK">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/estrutura-de-dados-master/aula10/huffman.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py" afterPath="$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" afterPath="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" />
     </list>
     <ignored path="estrutura-de-dados.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="largura.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="largura.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state relative-caret-position="51">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -41,6 +40,18 @@
             <state relative-caret-position="17">
               <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="huffman.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula10/huffman.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1989">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#3714#3729#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,6 +84,7 @@
         <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/altura.py" />
         <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py" />
         <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" />
+        <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula10/huffman.py" />
       </list>
     </option>
   </component>
@@ -107,8 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,30 +165,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="aula9" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="estrutura-de-dados" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="estrutura-de-dados" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="estrutura-de-dados-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercicios" />
+              <option name="myItemId" value="aula10" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,88 +191,66 @@
       <recent name="C:\Users\JoãoPedro\PycharmProjects\estrutura-de-dados\estrutura-de-dados-master\aula4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in ArvoreTestes (1)">
-    <configuration default="false" name="Unittests in NohTestes (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" />
-      <option name="CLASS_NAME" value="NohTestes" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest NohTestes.teste_init_com_pai_justaposto" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" />
-      <option name="CLASS_NAME" value="NohTestes" />
-      <option name="METHOD_NAME" value="teste_init_com_pai_justaposto" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in ArvoreTestes (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" />
-      <option name="CLASS_NAME" value="ArvoreTestes" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in TestesDeIntegracao">
     <configuration default="false" name="Unittests in NohTestes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula10/huffman.py" />
       <option name="CLASS_NAME" value="NohTestes" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in huffman" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="estrutura-de-dados" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula10/huffman.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in huffman (2)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="estrutura-de-dados" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula10/huffman.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -291,13 +263,35 @@
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula10/huffman.py" />
       <option name="CLASS_NAME" value="ArvoreTestes" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in TestesDeIntegracao" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="estrutura-de-dados" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula10/huffman.py" />
+      <option name="CLASS_NAME" value="TestesDeIntegracao" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_CLASS" />
@@ -443,19 +437,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in NohTestes (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest NohTestes.teste_init_com_pai_justaposto" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in ArvoreTestes (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in NohTestes" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in ArvoreTestes" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in NohTestes" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in huffman" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in huffman (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in ArvoreTestes" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in TestesDeIntegracao" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ArvoreTestes (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in NohTestes (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in ArvoreTestes" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in NohTestes" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest NohTestes.teste_init_com_pai_justaposto" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in TestesDeIntegracao" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in ArvoreTestes" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in huffman (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in huffman" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in NohTestes" />
       </list>
     </recent_temporary>
   </component>
@@ -564,48 +558,54 @@
       <option name="project" value="LOCAL" />
       <updated>1461358098381</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Atividades aula 9 OK">
+      <created>1461358304522</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1461358304522</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 39m 23s.xml">
-      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_ArvoreTestes - 2016.05.02 at 16h 21m 18s.xml">
+      <configuration name="Unittests in ArvoreTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 40m 17s.xml">
-      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_ArvoreTestes - 2016.05.02 at 16h 30m 42s.xml">
+      <configuration name="Unittests in ArvoreTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 40m 34s.xml">
-      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_CalcularFrequenciaCarecteresTestes - 2016.05.02 at 16h 28m 11s.xml">
+      <configuration name="Unittests in CalcularFrequenciaCarecteresTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 41m 57s.xml">
-      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_NohTestes - 2016.05.02 at 16h 28m 16s.xml">
+      <configuration name="Unittests in NohTestes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 42m 04s.xml">
-      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_TestesDeIntegracao - 2016.05.02 at 16h 30m 47s.xml">
+      <configuration name="Unittests in TestesDeIntegracao" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 43m 53s.xml">
-      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_huffman - 2016.05.02 at 16h 28m 21s.xml">
+      <configuration name="Unittests in huffman" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 45m 35s.xml">
-      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_huffman - 2016.05.02 at 16h 29m 53s.xml">
+      <configuration name="Unittests in huffman" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ArvoreTestes_(1) - 2016.04.22 at 17h 46m 30s.xml">
-      <configuration name="Unittests in ArvoreTestes (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_huffman - 2016.05.02 at 16h 30m 18s.xml">
+      <configuration name="Unittests in huffman" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_NohTestes_(1) - 2016.04.22 at 17h 39m 17s.xml">
-      <configuration name="Unittests in NohTestes (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_huffman_(1) - 2016.05.02 at 16h 21m 22s.xml">
+      <configuration name="Unittests in huffman (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_NohTestes_(1) - 2016.04.22 at 17h 46m 24s.xml">
-      <configuration name="Unittests in NohTestes (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_huffman_(2) - 2016.05.02 at 16h 30m 39s.xml">
+      <configuration name="Unittests in huffman (2)" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1522694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15080526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -615,6 +615,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -648,18 +649,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula5/fila.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula7/quick_sort_iterativo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -977,10 +971,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula9/altura.py">
+    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula9/altura.py" />
+    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -993,11 +988,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula9/largura.py">
+    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula10/huffman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
+        <state relative-caret-position="-1989">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3714#3729#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7244d47a-b132-4af5-9acb-8bf6ab06e078" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/estrutura-de-dados-master/aula11/grafo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/estrutura-de-dados-master/aula12/alfa.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="estrutura-de-dados.iws" />
@@ -56,12 +56,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grafo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="grafo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula11/grafo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alfa.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula12/alfa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,14 +108,14 @@
         <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula9/profundidade.py" />
         <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula10/huffman.py" />
         <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula11/grafo.py" />
+        <option value="$PROJECT_DIR$/estrutura-de-dados-master/aula12/alfa.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -177,7 +189,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="aula11" />
+              <option name="myItemId" value="aula12" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -202,29 +214,7 @@
       <recent name="C:\Users\JoãoPedro\PycharmProjects\estrutura-de-dados\estrutura-de-dados-master\aula4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in GrafoTestes">
-    <configuration default="false" name="Unittest GrafoTestes.teste_caminho_4_vertices_conexos_nao_lineares" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="estrutura-de-dados" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula11/grafo.py" />
-      <option name="CLASS_NAME" value="GrafoTestes" />
-      <option name="METHOD_NAME" value="teste_caminho_4_vertices_conexos_nao_lineares" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in Testes">
     <configuration default="false" name="Unittest GrafoTestes.teste_melhor_caminho_partindo_de_taubate_considerando_distancias" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,6 +293,28 @@
       <module name="estrutura-de-dados" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula11/grafo.py" />
       <option name="CLASS_NAME" value="ArcoTestes" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in Testes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estrutura-de-dados-master/aula12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="estrutura-de-dados" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estrutura-de-dados-master/aula12/alfa.py" />
+      <option name="CLASS_NAME" value="Testes" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_CLASS" />
@@ -448,19 +460,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest GrafoTestes.teste_caminho_4_vertices_conexos_nao_lineares" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest GrafoTestes.teste_melhor_caminho_partindo_de_taubate_considerando_distancias" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest GrafoTestes.teste_melhor_caminho_partindo_de_taubate_considerando_custo" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in GrafoTestes" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in ArcoTestes" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest GrafoTestes.teste_melhor_caminho_partindo_de_taubate_considerando_distancias" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest GrafoTestes.teste_melhor_caminho_partindo_de_taubate_considerando_custo" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in GrafoTestes" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in ArcoTestes" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in Testes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in GrafoTestes" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in ArcoTestes" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest GrafoTestes.teste_melhor_caminho_partindo_de_taubate_considerando_custo" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest GrafoTestes.teste_melhor_caminho_partindo_de_taubate_considerando_distancias" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest GrafoTestes.teste_caminho_4_vertices_conexos_nao_lineares" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Testes" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in GrafoTestes" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in ArcoTestes" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest GrafoTestes.teste_melhor_caminho_partindo_de_taubate_considerando_custo" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest GrafoTestes.teste_melhor_caminho_partindo_de_taubate_considerando_distancias" />
       </list>
     </recent_temporary>
   </component>
@@ -590,57 +602,64 @@
       <option name="project" value="LOCAL" />
       <updated>1462218077746</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="grafo Otimizado OK">
+      <created>1462554904591</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1462554904591</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_ArcoTestes - 2016.05.06 at 14h 07m 25s.xml">
-      <configuration name="Unittests in ArcoTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_Testes - 2016.05.06 at 15h 10m 12s.xml">
+      <configuration name="Unittests in Testes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GrafoTestes - 2016.05.05 at 17h 26m 21s.xml">
-      <configuration name="Unittests in GrafoTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_Testes - 2016.05.06 at 15h 10m 24s.xml">
+      <configuration name="Unittests in Testes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GrafoTestes - 2016.05.05 at 17h 28m 38s.xml">
-      <configuration name="Unittests in GrafoTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_Testes - 2016.05.06 at 15h 10m 31s.xml">
+      <configuration name="Unittests in Testes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GrafoTestes - 2016.05.05 at 17h 29m 22s.xml">
-      <configuration name="Unittests in GrafoTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_Testes - 2016.05.06 at 15h 10m 44s.xml">
+      <configuration name="Unittests in Testes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GrafoTestes - 2016.05.06 at 14h 07m 40s.xml">
-      <configuration name="Unittests in GrafoTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_Testes - 2016.05.06 at 15h 11m 26s.xml">
+      <configuration name="Unittests in Testes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GrafoTestes - 2016.05.06 at 14h 08m 12s.xml">
-      <configuration name="Unittests in GrafoTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_Testes - 2016.05.06 at 15h 12m 21s.xml">
+      <configuration name="Unittests in Testes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GrafoTestes - 2016.05.06 at 14h 10m 37s.xml">
-      <configuration name="Unittests in GrafoTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_Testes - 2016.05.06 at 15h 12m 59s.xml">
+      <configuration name="Unittests in Testes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GrafoTestes - 2016.05.06 at 14h 10m 50s.xml">
-      <configuration name="Unittests in GrafoTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_Testes - 2016.05.06 at 15h 13m 39s.xml">
+      <configuration name="Unittests in Testes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GrafoTestes - 2016.05.06 at 14h 11m 29s.xml">
-      <configuration name="Unittests in GrafoTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_Testes - 2016.05.06 at 15h 15m 55s.xml">
+      <configuration name="Unittests in Testes" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GrafoTestes - 2016.05.06 at 14h 12m 29s.xml">
-      <configuration name="Unittests in GrafoTestes" configurationId="tests" />
+    <history-entry file="Unittests_in_Testes - 2016.05.06 at 15h 19m 28s.xml">
+      <configuration name="Unittests in Testes" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14860907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29809105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32492113" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -671,7 +690,8 @@
     <MESSAGE value="Busca Binária OK" />
     <MESSAGE value="Atividades aula 9 OK" />
     <MESSAGE value="Huffman Ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="Huffman Ok" />
+    <MESSAGE value="grafo Otimizado OK" />
+    <option name="LAST_COMMIT_MESSAGE" value="grafo Otimizado OK" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -680,13 +700,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula5/fila.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula7/quick_sort_iterativo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1019,9 +1032,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula11/grafo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estrutura-de-dados-master/aula12/alfa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
